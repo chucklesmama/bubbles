@@ -1,2 +1,4 @@
-# bubbles
-bubbles are awesome
+### bubbles
+welcome to bubbles repository for awesome bublliness
+
+
